@@ -1,6 +1,6 @@
 package course.recursion.trees.BST;
 
-import course.recursion.trees.TreeNode;
+import course.recursion.trees.BST.TreeNode;
 
 public class insertInBST {
     public TreeNode insertIntoBST(TreeNode root, int val) {
